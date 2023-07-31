@@ -1,0 +1,70 @@
+Python
+
+Programming Language
+
+Applications of Python PL
+>> Web Development
+>> Game Development
+>> AI & ML
+>> Data Science & Data Visualization
+>> Desktop GUI
+>> Web Scrapping Applications
+>> Business Applications
+>> Audio & Video Applications
+
+Variables in Python -- the variable is to store the data
+>> # for commenting
+>> age = 18 -- Here age is variable and 18 is the value
+>> A variable name can be started with lowercase letters a-z and uppercase letters A-Z  & _
+>> Eg:- one1, One2, _one
+>> age = 18, Age = 18, Name = , _name
+>> age = 18
+>> print(age)
+
+Print & Input in Python
+>> Input -- it takes the input data from the user
+>> Output -- it displays the output data to the user
+>> name = ("Believer-01") #declaration of variable
+>> print("Hello World!")
+>> print(name)
+>>> Input taking in python
+>> name = input() or input('Enter your name:')
+>> print("Hello", name, "Welcome to our Channel")  
+
+Data Types in Python -- A variable which type of data has to be stored - datatype
+>> Numbers -- integers
+>> English Words -- strings
+>> Bool -- True or False
+Numeric types:
+>> int: Integer type, e.g., 5, -10, 1000.
+>> float: Floating-point type, e.g., 3.14, -0.5, 2.0.
+Sequence types:
+>> str: String type, sequence of characters e.g., "hello", 'world', "42".
+>> list: A mutable ordered collection of elements, e.g., [1, 2, 3], ['a', 'b', 'c'].
+>> tuple: An immutable ordered collection of elements, e.g., (1, 2, 3), ('x', 'y', 'z').
+Mapping type:
+>> dict: A mutable collection that maps keys to values, e.g., {'name': 'John', 'age': 30}.
+Set types:
+>> set: An unordered collection of unique elements, e.g., {1, 2, 3}, {'apple', 'banana', 'orange'}.
+frozen set: An immutable version of a set, e.g., frozenset({1, 2, 3}).
+Boolean type:
+>> bool: Represents a boolean value, either True or False.
+NoneType:
+>> None: Represents the absence of a value or a null value.
+>>> int, string, bool -- primitive datatypes
+>>> set, list, tuple -- group of datatypes -- array type datatypes 
+>>> dict -- pair of values -- key-value pairs
+>>> user-defined datatypes -- classes -- python is object-oriented PL
+>> v1 = 10 -- int
+>> v2 = "Believer-01" -- string
+>> v3 = 4.5 -- float
+>> v4 = True -- boolean 
+>> print(type(v1))
+>> print(type(v2))
+>> print(type(v3))
+>> print(type(v4))
+
+List in Python
+
+
+
