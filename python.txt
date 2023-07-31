@@ -64,7 +64,9 @@ NoneType:
 >> print(type(v3))
 >> print(type(v4))
 
-List in Python
+List in Python -- group of data/variables
+
+
 
 
 
