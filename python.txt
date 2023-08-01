@@ -64,8 +64,54 @@ NoneType:
 >> print(type(v3))
 >> print(type(v4))
 
-List in Python -- group of data/variables
+List in Python -- a group of data/variables
+>> arr = []
+>> print(type(arr))
 
+>> arr = [1,2,4,6,5.6,3.4,'believer01','youtube']
+>> print(arr)
+
+>> arr = [1,2,4,6]
+>> length_list = len(arr)
+>> print(length_list)
+>> print(type(arr))
+>> print(len(arr))
+
+>> arr = [5,2,4,9]
+>> length_list = len(arr)
+>> Important functionalities
+>> print(5 in arr)  -- to check whether the set element is there in the list or not 
+>> print(15 in arr) 
+>> arr[0] -- for indexes
+>> arr[3]
+>> req_index = arr.index(4)
+>> print(req_index)
+
+>> arr.append(15)
+>> arr.append(12)
+>> print(arr)
+>> print(max(arr))
+>> print(min(arr))
+>> print('Before sorting: ',end="")
+>> print(arr)
+>> arr.sort()
+>> print('After sorting: ',end="")
+>> print(arr)
+>> arr.remove(9)
+>> print(arr)
+
+Tuple in Python -- immutable
+t = (1,2,3,4) -- tuple
+l = [1,2,3,4] -- list
+>> print(type(t))
+>> print(type(l))
+>> l[0] = 10
+>> print(l)
+>> Important functions
+>> print(len(t))
+>> print(max(t))
+>> print(min(t))
+>> 
 
 
 
